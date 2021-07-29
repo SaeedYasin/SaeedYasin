@@ -22,8 +22,8 @@
 <p align="left">
   &nbsp;&nbsp;
   <a href="https://twitter.com/MSaeedYasin" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"              alt="@MSaeedYasin" height="30" width="30" /></a>&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/saeedyasin" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"          alt="Saeed Yasin LinkedIn" height="30" width="30" /></a>&nbsp;&nbsp;
-  <a href="https://saeedsolutions.blogspot.com" target="blank"><img align="center" src="https://img.icons8.com/emoji/48/000000/globe-showing-europe-africa-emoji.png"          alt="Saeed's Blog" height="30" width="30" /></a>
+  <a href="https://linkedin.com/in/saeedyasin" target="_blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"          alt="Saeed Yasin LinkedIn" height="30" width="30" /></a>&nbsp;&nbsp;
+  <a href="https://saeedsolutions.blogspot.com" target="_blank"><img align="center" src="https://img.icons8.com/emoji/48/000000/globe-showing-europe-africa-emoji.png"          alt="Saeed's Blog" height="30" width="30" /></a>
 </p>
 <hr>
 
