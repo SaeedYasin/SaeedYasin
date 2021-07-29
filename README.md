@@ -27,7 +27,7 @@
 </p>
 <hr>
 
-<h3 align="left">🧰 All Languages and Tools:</h3>
+<h3 align="left">🧰 All Languages And Tools I Use:</h3>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
@@ -51,15 +51,18 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <hr>
 
-<h3 align="left">📊 Weekly development breakdown: </h3>
+<h3 align="left">📊 My Weekly development breakdown: </h3>
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+JavaScript        1 hr 17 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.59 % 
 ```
 <!--END_SECTION:waka-->
 <hr>
 
-<h3 align="left">💳 Credits & Source: </h3>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SaeedYasin&show_icons=true&layout=compact&custom_title=My%20Most%20Used%20Languages%20in%20Github&title_color=0c0c0c&include_all_commits=true&count_private=true" alt="SaeedYasin's most used languages in github" /></p>
+<hr>
+
+<h3 align="left">💳 Credits & Sources:</h3>
 
 - Programming Languages icons from [community-curated github 'explore'](https://github.com/github/explore/tree/master/topics)
 - Social icon assets from [peterthehan repo](https://github.com/peterthehan/peterthehan/tree/master/assets)
