@@ -52,13 +52,17 @@
 <hr>
 
 <h3 align="left">📊 My Weekly development breakdown: </h3>
+
 <!--START_SECTION:waka-->
+
 ```text
 Week: 22 July, 2021 - 28 July, 2021
 
 JavaScript   25 mins         █████████████████████████   100.00 % 
 ```
+
 <!--END_SECTION:waka-->
+
 <hr>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SaeedYasin&show_icons=true&layout=compact&custom_title=My%20Most%20Used%20Languages%20in%20Github&title_color=0c0c0c&include_all_commits=true&count_private=true" alt="SaeedYasin's most used languages in github" /></p>
@@ -70,7 +74,6 @@ JavaScript   25 mins         █████████████████
 - Social icon assets from [peterthehan repo](https://github.com/peterthehan/peterthehan/tree/master/assets)
 - Weekly dev stats from [Athul's Waka Github Action](https://github.com/athul/waka-readme)
 - Github readme stats from [Anurag's github-readme-stats Vercel app](https://github.com/anuraghazra/github-readme-stats)
-
 
 [website]: https://saeedsolutions.blogspot.com
 [portfolio]: http://saeedyasin.github.io
