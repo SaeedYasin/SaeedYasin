@@ -54,7 +54,9 @@
 <h3 align="left">📊 My Weekly development breakdown: </h3>
 <!--START_SECTION:waka-->
 ```text
-JavaScript        1 hr 17 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.59 % 
+Week: 22 July, 2021 - 28 July, 2021
+
+JavaScript   25 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 <hr>
