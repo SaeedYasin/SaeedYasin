@@ -59,7 +59,7 @@ https://gist.github.com/SaeedYasin
 
 <!--START_SECTION:waka-->
 ```text
-Week: 24 July, 2021 - 30 July, 2021
+Week: 25 July, 2021 - 31 July, 2021
 
 JavaScript   31 mins         ████████████████████▓░░░░   82.75 % 
 HTML         6 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.25 % 
