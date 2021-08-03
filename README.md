@@ -70,7 +70,7 @@ JSON         4 mins          ▒░░░░░░░░░░░░░░░░
 
 <hr>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SaeedYasin&show_icons=true&layout=compact&custom_title=My%20Most%20Used%20Languages%20in%20Github&title_color=0c0c0c&include_all_commits=true&count_private=true" alt="SaeedYasin's most used languages in github" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SaeedYasin&show_icons=true&layout=compact&custom_title=My%20Most%20Used%20Languages%20on%20Github&title_color=0c0c0c&include_all_commits=true&count_private=true" alt="SaeedYasin's most used languages in github" /></p>
 <hr>
 
 <h3 align="left">💳 Credits & Sources:</h3>
