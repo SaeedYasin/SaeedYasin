@@ -59,13 +59,13 @@ https://gist.github.com/SaeedYasin
 
 <!--START_SECTION:waka-->
 ```text
-Week: 31 August, 2021 - 06 September, 2021
+Week: 01 September, 2021 - 07 September, 2021
 
-JavaScript   20 hrs 32 mins  ██████████████▓░░░░░░░░░░   58.96 % 
-Svelte       8 hrs 3 mins    █████▓░░░░░░░░░░░░░░░░░░░   23.12 % 
-Python       3 hrs 51 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
-JSON         1 hr 17 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
-HTML         16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+JavaScript   19 hrs 20 mins  ████████████████▒░░░░░░░░   64.72 % 
+Svelte       4 hrs 45 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
+Python       3 hrs 51 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.91 % 
+JSON         1 hr 13 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
+EJS          14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
 ```
 <!--END_SECTION:waka-->
 
