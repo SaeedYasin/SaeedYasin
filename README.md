@@ -59,9 +59,9 @@ https://gist.github.com/SaeedYasin
 
 <!--START_SECTION:waka-->
 ```text
-Week: 04 October, 2021 - 10 October, 2021
+Week: 05 October, 2021 - 11 October, 2021
 
-JavaScript   14 hrs 58 mins  █████████████████████████   100.00 % 
+JavaScript   10 hrs 52 mins  █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
