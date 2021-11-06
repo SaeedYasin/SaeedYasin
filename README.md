@@ -9,7 +9,7 @@
   </a>
 </p>
 
-## I'm a Developer, Tech Enthusiast and Thinker!!
+## I'm a Developer, Tech Enthusiast and Thinker...
 
 - 🔭 I am currently working on my [portfolio wesbite][portfolio]
 - 🌱 I’m currently learning everything (always improving)
