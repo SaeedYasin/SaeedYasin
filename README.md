@@ -9,13 +9,15 @@
   </a>
 </p>
 
-## I'm a Developer, Tech Enthusiast and Thinker...
-
-- 🔭 I am currently working on various projects and playing around with my [portfolio wesbite][portfolio]
-- 🌱 I’m currently learning everything (always improving)
-- 👯 I’m looking to collaborate with other developers to create awesome open source projects
-- 🥅 New Year Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to talk about the universe and other big ideas
+<img align="right" width="250" height="250" src="https://github.com/SaeedYasin/SaeedYasin/blob/90460b4738e0db5ad33282f428334aafc3f3be9b/read.png">
+<h3 align="left">I'm a Developer, Tech Enthusiast and Thinker...</h3>
+<p align="left">
+- 🔭 I am currently working on various projects and playing around with my <a href="http://saeedyasin.github.io" target="blank">portfolio website</a> <br />
+- 🌱 I’m currently learning everything (always improving) <br />
+- 👯 I’m looking to collaborate with other developers to create awesome open source projects <br />
+- 🥅 New Year Goals: Contribute more to Open Source projects <br />
+- ⚡ Fun fact: I love to talk about the universe and other big ideas <br />
+</p>
 
 <hr>
 <h3 align="left">🤝 Connect with me:</h3>
