@@ -1,4 +1,5 @@
-<img align="right" width="250" height="250" src="https://github.com/SaeedYasin/SaeedYasin/blob/90460b4738e0db5ad33282f428334aafc3f3be9b/read.png"> <br />
+<img align="right" width="300" height="300" src="https://github.com/SaeedYasin/SaeedYasin/blob/90460b4738e0db5ad33282f428334aafc3f3be9b/read.png"> <br />
+<span>
 <h1 align="center">Hi 👋, I'm Saeed</h1>
 <h3 align="center">An embedded systems + web developer</h3>
 <p align="center">
@@ -9,6 +10,7 @@
     <img src="https://img.shields.io/twitter/follow/MSaeedYasin?color=1DA1F2&logo=twitter&style=flat" alt="Follow me on twitter" />
   </a>
 </p>
+</span>
 
 <h3 align="left">I'm a Developer, Tech Enthusiast and Thinker...</h3>
 <p align="left">
