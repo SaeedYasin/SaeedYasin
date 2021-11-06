@@ -11,7 +11,7 @@
 
 ## I'm a Developer, Tech Enthusiast and Thinker...
 
-- 🔭 I am currently working on my [portfolio wesbite][portfolio]
+- 🔭 I am currently working on various projects and playing around with my [portfolio wesbite][portfolio]
 - 🌱 I’m currently learning everything (always improving)
 - 👯 I’m looking to collaborate with other developers to create awesome open source projects
 - 🥅 New Year Goals: Contribute more to Open Source projects
