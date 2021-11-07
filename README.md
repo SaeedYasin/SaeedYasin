@@ -63,7 +63,7 @@ https://gist.github.com/SaeedYasin
 
 <!--START_SECTION:waka-->
 ```text
-Week: 30 October, 2021 - 05 November, 2021
+Week: 31 October, 2021 - 06 November, 2021
 
 C++          3 hrs 53 mins   ██████████████████▒░░░░░░   73.99 % 
 JavaScript   1 hr 12 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.96 % 
