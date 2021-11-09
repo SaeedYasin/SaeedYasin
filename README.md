@@ -63,12 +63,12 @@ https://gist.github.com/SaeedYasin
 
 <!--START_SECTION:waka-->
 ```text
-Week: 01 November, 2021 - 07 November, 2021
+Week: 02 November, 2021 - 08 November, 2021
 
-C++          3 hrs 53 mins   ██████████████████▒░░░░░░   73.99 % 
-JavaScript   1 hr 12 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.96 % 
-Makefile     5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
-Batchfile    3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+C++          4 hrs 12 mins   ███████████████████░░░░░░   75.48 % 
+JavaScript   1 hr 12 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.65 % 
+Makefile     5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+Batchfile    3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
 ```
 <!--END_SECTION:waka-->
 
