@@ -63,11 +63,12 @@ https://gist.github.com/SaeedYasin
 
 <!--START_SECTION:waka-->
 ```text
-Week: 30 December, 2021 - 05 January, 2022
+Week: 31 December, 2021 - 06 January, 2022
 
-C++          16 mins         ███████████████░░░░░░░░░░   59.63 % 
-JavaScript   9 mins          ████████▒░░░░░░░░░░░░░░░░   33.94 % 
-JSON         1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
+C++          17 mins         ████████████░░░░░░░░░░░░░   48.25 % 
+JavaScript   9 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.58 % 
+Arduino      7 mins          █████░░░░░░░░░░░░░░░░░░░░   20.14 % 
+JSON         1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
 ```
 <!--END_SECTION:waka-->
 
