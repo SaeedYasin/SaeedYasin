@@ -63,7 +63,10 @@ https://gist.github.com/SaeedYasin
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 30 January, 2022 - 05 February, 2022
+
+JavaScript   18 mins         ██████████████████▒░░░░░░   73.69 % 
+JSON         6 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.06 % 
 ```
 <!--END_SECTION:waka-->
 
