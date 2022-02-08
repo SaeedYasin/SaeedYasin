@@ -63,10 +63,11 @@ https://gist.github.com/SaeedYasin
 
 <!--START_SECTION:waka-->
 ```text
-Week: 31 January, 2022 - 06 February, 2022
+Week: 01 February, 2022 - 07 February, 2022
 
-JavaScript   18 mins         ██████████████████▒░░░░░░   73.69 % 
-JSON         6 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.06 % 
+JavaScript   18 mins         █████████████████░░░░░░░░   68.41 % 
+JSON         6 mins          ██████░░░░░░░░░░░░░░░░░░░   24.19 % 
+Arduino      1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
 ```
 <!--END_SECTION:waka-->
 
