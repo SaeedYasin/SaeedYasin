@@ -63,7 +63,7 @@ https://gist.github.com/SaeedYasin
 
 <!--START_SECTION:waka-->
 ```text
-Week: 04 February, 2022 - 10 February, 2022
+Week: 05 February, 2022 - 11 February, 2022
 
 JavaScript   18 mins         █████████████████░░░░░░░░   68.41 % 
 JSON         6 mins          ██████░░░░░░░░░░░░░░░░░░░   24.19 % 
