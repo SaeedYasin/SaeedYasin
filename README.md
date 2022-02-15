@@ -63,9 +63,7 @@ https://gist.github.com/SaeedYasin
 
 <!--START_SECTION:waka-->
 ```text
-Week: 07 February, 2022 - 13 February, 2022
-
-Arduino   1 min           ██████████████████▓░░░░░░   75.24 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
