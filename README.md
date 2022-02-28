@@ -62,9 +62,11 @@ https://gist.github.com/SaeedYasin
 <h3 align="left">📊 My Weekly development breakdown: </h3>
 
 <!--START_SECTION:waka-->
+
 ```text
-No Activity tracked this Week
+No activity tracked
 ```
+
 <!--END_SECTION:waka-->
 
 <hr>
