@@ -64,9 +64,11 @@ https://gist.github.com/SaeedYasin
 <!--START_SECTION:waka-->
 
 ```text
-From: 03 March 2022 - To: 10 March 2022
+From: 04 March 2022 - To: 11 March 2022
 
-C   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Markdown     15 mins         ██████████████████▒░░░░░░   73.62 %
+JavaScript   5 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.38 %
+C            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
