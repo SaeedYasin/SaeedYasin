@@ -64,11 +64,10 @@ https://gist.github.com/SaeedYasin
 <!--START_SECTION:waka-->
 
 ```text
-From: 07 March 2022 - To: 14 March 2022
+From: 08 March 2022 - To: 15 March 2022
 
 Markdown     15 mins         ██████████████████▒░░░░░░   73.62 %
 JavaScript   5 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.38 %
-C            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
