@@ -64,10 +64,7 @@ https://gist.github.com/SaeedYasin
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 March 2022 - To: 17 March 2022
-
-Markdown     15 mins         ██████████████████▒░░░░░░   73.62 %
-JavaScript   5 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.38 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
