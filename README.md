@@ -64,7 +64,13 @@ https://gist.github.com/SaeedYasin
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 12 March 2022 - To: 19 March 2022
+
+JavaScript   1 hr 46 mins    ███████████████████▒░░░░░   76.96 %
+JSON         21 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.66 %
+Markdown     9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.05 %
+Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
