@@ -64,11 +64,11 @@ https://gist.github.com/SaeedYasin
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 March 2022 - To: 04 April 2022
+From: 29 March 2022 - To: 05 April 2022
 
-C++          7 hrs 19 mins   ███████████████████████▓░   94.24 %
-JavaScript   15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 %
-Arduino      10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
+C++          9 hrs 22 mins   ███████████████████████▓░   94.97 %
+JavaScript   15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
+Arduino      13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
 JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
