@@ -64,10 +64,9 @@ https://gist.github.com/SaeedYasin
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 April 2022 - To: 17 April 2022
+From: 11 April 2022 - To: 18 April 2022
 
-C++       1 hr 18 mins    █████████████████████████   99.90 %
-Arduino   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+C++   1 hr 8 mins     █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
