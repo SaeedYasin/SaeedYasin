@@ -64,14 +64,14 @@ https://gist.github.com/SaeedYasin
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 April 2022 - To: 07 May 2022
+From: 01 May 2022 - To: 08 May 2022
 
-Svelte       9 hrs           ██████████████░░░░░░░░░░░   56.43 %
-TypeScript   2 hrs 4 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.00 %
-SCSS         1 hr 58 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.41 %
-JavaScript   1 hr 17 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 %
-JSON         48 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.10 %
-CSS          41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 %
+Svelte       9 hrs 16 mins   █████████████▓░░░░░░░░░░░   54.11 %
+SCSS         3 hrs 46 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.05 %
+TypeScript   2 hrs 3 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.02 %
+JavaScript   1 hr 12 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.06 %
+JSON         37 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
+CSS          5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
 ```
 
 <!--END_SECTION:waka-->
