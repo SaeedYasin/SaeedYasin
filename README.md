@@ -64,7 +64,7 @@ https://gist.github.com/SaeedYasin
 <!--START_SECTION:waka-->
 
 ```text
-From: 24 May 2022 - To: 31 May 2022
+From: 25 May 2022 - To: 01 June 2022
 
 Svelte       26 mins         █████████████████░░░░░░░░   67.68 %
 JSON         7 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.87 %
