@@ -64,10 +64,10 @@ https://gist.github.com/SaeedYasin
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 June 2022 - To: 05 July 2022
+From: 29 June 2022 - To: 06 July 2022
 
-Svelte   19 hrs 34 mins  ████████████████████████░   95.79 %
-SCSS     51 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 %
+Svelte   17 hrs 29 mins  ████████████████████████▒   97.49 %
+SCSS     26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
 Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
