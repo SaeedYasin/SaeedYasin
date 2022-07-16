@@ -14,7 +14,7 @@
 
 <h3 align="left">I'm a Developer, Tech Enthusiast and Thinker...</h3>
 <p align="left">
-- 🔭 I am currently working on various projects and playing around with my <a href="http://saeedyasin.github.io" target="blank">portfolio website</a> <br />
+- 🔭 I am currently working on various projects and playing around with my <a href="https://saeedyasin.com" target="blank">portfolio website</a> <br />
 - 🌱 I’m currently learning everything (always improving) <br />
 - 👯 I’m looking to collaborate with other developers to create awesome open source projects <br />
 - 🥅 New Year Goals: Contribute more to Open Source projects <br />
