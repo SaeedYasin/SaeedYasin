@@ -64,11 +64,10 @@ https://gist.github.com/SaeedYasin
 <!--START_SECTION:waka-->
 
 ```text
-From: 29 July 2022 - To: 05 August 2022
+From: 02 August 2022 - To: 09 August 2022
 
-Svelte       10 hrs 36 mins  ████████████▓░░░░░░░░░░░░   50.06 %
-JavaScript   6 hrs 43 mins   ████████░░░░░░░░░░░░░░░░░   31.76 %
-Other        3 hrs 22 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.94 %
+JavaScript   14 hrs 33 mins  ████████████▒░░░░░░░░░░░░   49.34 %
+Other        5 hrs 20 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.13 %
 ```
 
 <!--END_SECTION:waka-->
