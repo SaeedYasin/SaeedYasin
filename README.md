@@ -64,11 +64,11 @@ https://gist.github.com/SaeedYasin
 <!--START_SECTION:waka-->
 
 ```text
-From: 15 August 2022 - To: 22 August 2022
+From: 16 August 2022 - To: 23 August 2022
 
-TypeScript   11 hrs 17 mins  ████████████████▒░░░░░░░░   65.45 %
-JavaScript   3 hrs 16 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.96 %
-Other        1 hr 50 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.67 %
+TypeScript   7 hrs 33 mins   ████████████░░░░░░░░░░░░░   48.37 %
+JavaScript   4 hrs 52 mins   ███████▓░░░░░░░░░░░░░░░░░   31.23 %
+Other        2 hrs 17 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.72 %
 ```
 
 <!--END_SECTION:waka-->
