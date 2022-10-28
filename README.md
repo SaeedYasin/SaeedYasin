@@ -64,9 +64,7 @@ https://gist.github.com/SaeedYasin
 <!--START_SECTION:waka-->
 
 ```text
-From: 19 October 2022 - To: 26 October 2022
-
-JavaScript   2 hrs 14 mins   █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
