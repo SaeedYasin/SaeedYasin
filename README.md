@@ -64,7 +64,11 @@ https://gist.github.com/SaeedYasin
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 24 November 2022 - To: 01 December 2022
+
+Svelte   46 mins         ███████████████████████▒░   93.17 %
+JSON     2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 %
+HTML     1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
 ```
 
 <!--END_SECTION:waka-->
