@@ -3,8 +3,8 @@
 <h1 align="center">Hi 👋, I'm Saeed</h1>
 <h3 align="center">An embedded systems + web developer</h3>
 <p align="center">
-  <a href="https://saeedsolutions.blogspot.com" title="Saeed's Blog">
-    <img src="https://img.shields.io/website?label=saeedsolutions.blogspot.com&url=https%3A%2F%2Fsaeedsolutions.blogspot.com" alt="Website" />
+  <a href="https://saeedyasin.com" title="Saeed's Website">
+    <img alt="Website" src="https://img.shields.io/website?label=saeedyasin.com&url=https%3A%2F%2Fsaeedyasin.com">
   </a>
   <a href="https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FSaeedYasin&screen_name=MSaeedYasin" title="Twitter Follow">
     <img src="https://img.shields.io/twitter/follow/MSaeedYasin?color=1DA1F2&logo=twitter&style=flat" alt="Follow me on twitter" />
