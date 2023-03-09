@@ -64,11 +64,11 @@ https://gist.github.com/SaeedYasin
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 February 2023 - To: 07 March 2023
+From: 01 March 2023 - To: 08 March 2023
 
-TypeScript   27 hrs 37 mins  ████████████████████▓░░░░   82.27 %
-Rust         2 hrs 24 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.19 %
-Other        1 hr 40 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.00 %
+TypeScript   26 hrs 2 mins   ████████████████████▒░░░░   80.75 %
+Rust         2 hrs 39 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 %
+Other        1 hr 41 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 %
 ```
 
 <!--END_SECTION:waka-->
