@@ -64,7 +64,7 @@ https://gist.github.com/SaeedYasin
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 November 2023 - To: 10 November 2023
+From: 04 November 2023 - To: 11 November 2023
 
 TypeScript   6 hrs 16 mins   ███████████▒░░░░░░░░░░░░░   45.45 %
 Rust         3 hrs 41 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.75 %
