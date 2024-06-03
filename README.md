@@ -64,7 +64,7 @@ https://gist.github.com/SaeedYasin
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 May 2024 - To: 01 June 2024
+From: 26 May 2024 - To: 02 June 2024
 
 HTML         22 mins         █████████▒░░░░░░░░░░░░░░░   37.31 %
 JSON         20 mins         ████████▒░░░░░░░░░░░░░░░░   33.90 %
