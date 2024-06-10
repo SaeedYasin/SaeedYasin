@@ -64,9 +64,9 @@ https://gist.github.com/SaeedYasin
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 June 2024 - To: 08 June 2024
+From: 02 June 2024 - To: 09 June 2024
 
-TypeScript   5 hrs 1 min     ██████████▓░░░░░░░░░░░░░░   42.72 %
+TypeScript   5 hrs 1 min     ██████████▓░░░░░░░░░░░░░░   42.73 %
 TOML         2 hrs 59 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.48 %
 Rust         1 hr 43 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.69 %
 JSON         1 hr 11 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.18 %
