@@ -64,11 +64,12 @@ https://gist.github.com/SaeedYasin
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 February 2025 - To: 09 February 2025
+From: 03 February 2025 - To: 10 February 2025
 
-Rust         22 mins         █████████████████░░░░░░░░   68.37 %
-JSON         10 mins         ███████▓░░░░░░░░░░░░░░░░░   30.97 %
-TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
+Rust         24 mins         ████████▒░░░░░░░░░░░░░░░░   32.72 %
+JSON         23 mins         ███████▓░░░░░░░░░░░░░░░░░   31.24 %
+TypeScript   14 mins         █████░░░░░░░░░░░░░░░░░░░░   19.61 %
+GraphQL      12 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.43 %
 ```
 
 <!--END_SECTION:waka-->
