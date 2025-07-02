@@ -64,7 +64,7 @@ https://gist.github.com/SaeedYasin
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 June 2025 - To: 30 June 2025
+From: 24 June 2025 - To: 01 July 2025
 
 TypeScript    6 hrs 3 mins    ████████████████▒░░░░░░░░   65.19 %
 JSON          1 hr 31 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.48 %
