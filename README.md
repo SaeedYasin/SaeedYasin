@@ -64,13 +64,13 @@ https://gist.github.com/SaeedYasin
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 November 2025 - To: 21 November 2025
+From: 15 November 2025 - To: 22 November 2025
 
-TypeScript   3 hrs 15 mins   ██████████████░░░░░░░░░░░   56.45 %
-JSON         1 hr 20 mins    █████▓░░░░░░░░░░░░░░░░░░░   23.31 %
-YAML         21 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.14 %
-Prisma       20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.85 %
-Docker       14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 %
+TypeScript   3 hrs 15 mins   █████████████░░░░░░░░░░░░   52.55 %
+JSON         1 hr 46 mins    ███████░░░░░░░░░░░░░░░░░░   28.61 %
+YAML         21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.71 %
+Prisma       20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.45 %
+Docker       14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 %
 ```
 
 <!--END_SECTION:waka-->
