@@ -64,9 +64,11 @@ https://gist.github.com/SaeedYasin
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 November 2025 - To: 01 December 2025
+From: 25 November 2025 - To: 02 December 2025
 
-JSON   0 secs          █████████████████████████   100.00 %
+Rust         19 mins         ██████████████████░░░░░░░   71.37 %
+JSON         7 mins          ███████░░░░░░░░░░░░░░░░░░   28.25 %
+TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
 ```
 
 <!--END_SECTION:waka-->
