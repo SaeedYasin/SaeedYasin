@@ -64,13 +64,13 @@ https://gist.github.com/SaeedYasin
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 October 2026 - To: 11 October 2026
+From: 05 October 2026 - To: 12 October 2026
 
-TypeScript   9 hrs 2 mins          ██████████░░░░░░░░░░░░░░░   40.46 %
-Markdown     4 hrs 15 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.10 %
-Other        3 hrs 36 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.14 %
-Svelte       2 hrs 5 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.39 %
-Python       38 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
+TypeScript   6 hrs 13 mins         ███████████▓░░░░░░░░░░░░░   46.21 %
+Markdown     3 hrs 3 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.73 %
+Other        1 hr 12 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.99 %
+Svelte       35 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 %
+GraphQL      34 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 %
 ```
 
 <!--END_SECTION:waka-->
